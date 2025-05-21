@@ -1,0 +1,4 @@
+TS1,Lyon,Paris,TGV
+TC1,Lyon,Lille:TS1,Lyon,Paris,TGV:TS2,Paris,Lille,Bus
+TS2,Paris,Lille,Bus
+
